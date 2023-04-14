@@ -75,5 +75,36 @@
     "fieldName45": "Hypertension",
     "fieldName46": "gynecology",
     "fieldName47": "Endocrinology"
+  },
+  "contact": {
+    "heading": "Contact Us",
+    "paragraph1" : "We are here to help.",
+    "paragraph2" : "Feel free to leave a message and we will get back to you as soon as possible :-)",
+    "fName": "First Name*",
+    "fNamePlaceholder": "Enter First Name*",
+    "lName": "Last Name*",
+    "lNamePlaceholder": "Enter Last Name",
+    "email": "Email address*",
+    "emailPlaceholder": "Enter email*",
+    "phone": "Phone",
+    "phonePlacholder": "Enter phone",
+    "message": "Content of the message*",
+    "msgPlaceholder": "Write message",
+    "button": "Send"
+  },
+  "footer": {
+    "address1": "2 Haslosha St.,",
+    "address2": "Tel Aviv-Yafo, 6706054",
+    "poweredBy": "powered by",
+    "copyright": "© 2020 hidoc Israel.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use ",
+    "informed": "Informed Consent",
+    "accesability": "Accessibility Statement",
+    "madness": "From Madness House",
+    "about": "About",
+    "joinUs": "Q&A",
+    "qa": "Consulting Area",
+    "note": "The site is not intended for an emergency situation - do not use this site in a life-threatening situation."
   }
 }

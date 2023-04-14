@@ -75,5 +75,36 @@
     "fieldName45": "Hypertension",
     "fieldName46": "gynecology",
     "fieldName47": "Endocrinology"
+  },
+  "contact": {
+    "heading": "צור קשר",
+    "paragraph1" : "אנחנו כאן בשביל לעזור.",
+    "paragraph2" : "מוזמנים להשאיר הודעה ונחזור אליכם בהקדם האפשרי :-)",
+    "fName": "שם פרטי*",
+    "fNamePlaceholder": "הזן שם פרטי",
+    "lName": "שם משפחה*",
+    "lNamePlaceholder": "הזן שם משפחה",
+    "email": "אימייל*",
+    "emailPlaceholder": "הזן אימייל",
+    "phone": "טלפון",
+    "phonePlaceholder": "להזין טלפון",
+    "message": "תוכן ההודעה*",
+    "msgPlaceholder": "כתוב הודעה",
+    "button": "שלח"
+  },
+  "footer": {
+    "address1": "רחוב השלושה 2, ",
+    "address2": "תל אביב־יפו, 6706054",
+    "poweredBy": "מְמוּנָע מֵאֵת",
+    "copyright": "© 2020 hidoc ישראל.",
+    "privacy": "מדיניות פרטיות",
+    "terms": "תנאי שימוש",
+    "informed": "הסכמה מדעת",
+    "accesability": "הצהרת נגישות",
+    "madness": "מבית מדנס",
+    "about": "אודות",
+    "joinUs": "רופא מומחה? הצטרף אלינו",
+    "qa": "שאלות ותשובות",
+    "note": "האתר אינו מיועד למצב חירום - אין להשתמש באתר זה במצב מסכן חיים.&nbsp;לקבלת עזרה מיידית התקשרו 101"
   }
 }
