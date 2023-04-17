@@ -76,6 +76,11 @@
     "fieldName46": "gynecology",
     "fieldName47": "Endocrinology"
   },
+  "ourExpert": {
+    "heading": "The leading expert doctors in every field",
+    "para1": "A network of carefully selected specialist doctors are available for a call at the click of a button.",
+    "para2": "The experts who work with hidoc are doctors licensed to practice medicine in their fields of expertise in Israel."
+  },
   "contact": {
     "heading": "Contact Us",
     "paragraph1" : "We are here to help.",
@@ -87,7 +92,7 @@
     "email": "Email address*",
     "emailPlaceholder": "Enter email*",
     "phone": "Phone",
-    "phonePlacholder": "Enter phone",
+    "phonePlaceholder": "Enter phone",
     "message": "Content of the message*",
     "msgPlaceholder": "Write message",
     "button": "Send"
@@ -106,5 +111,13 @@
     "joinUs": "Q&A",
     "qa": "Consulting Area",
     "note": "The site is not intended for an emergency situation - do not use this site in a life-threatening situation."
+  },
+  "info": {
+    "success": "Your request was sent",
+    "error": "An error has occurred, please try again later.",
+    "firstName": "First name is required.",
+    "lastName": "Last name is required.",
+    "phoneName": "Phone is required.",
+    "emailName": "Email is required."
   }
 }
