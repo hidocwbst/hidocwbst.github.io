@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1be92433.css",
-    "main.js": "/static/js/main.9eb30d5b.js",
+    "main.css": "/static/css/main.9ad3df66.css",
+    "main.js": "/static/js/main.fd1918cd.js",
     "static/js/787.36e42aab.chunk.js": "/static/js/787.36e42aab.chunk.js",
     "static/media/hand_tel.png": "/static/media/hand_tel.5b0f25716df24188e7a8.png",
     "static/media/almoni-tzar-light-aaa.woff2": "/static/media/almoni-tzar-light-aaa.bb2fb3b7dc88b71b251b.woff2",
@@ -14,14 +14,16 @@
     "index.html": "/index.html",
     "static/media/he.svg": "/static/media/he.3ab3d89e3d5b4a5af23f82b7a8fc0994.svg",
     "static/media/menu-close.svg": "/static/media/menu-close.dd6c95a0e89c04393781.svg",
+    "static/media/success.svg": "/static/media/success.7877dcb294ccf17d67c09f029402d44a.svg",
+    "static/media/error.svg": "/static/media/error.84c9451d750545273a94bd88a288c030.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
     "static/media/menu.svg": "/static/media/menu.215df4f0a15755ed46ff.svg",
-    "main.1be92433.css.map": "/static/css/main.1be92433.css.map",
-    "main.9eb30d5b.js.map": "/static/js/main.9eb30d5b.js.map",
+    "main.9ad3df66.css.map": "/static/css/main.9ad3df66.css.map",
+    "main.fd1918cd.js.map": "/static/js/main.fd1918cd.js.map",
     "787.36e42aab.chunk.js.map": "/static/js/787.36e42aab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1be92433.css",
-    "static/js/main.9eb30d5b.js"
+    "static/css/main.9ad3df66.css",
+    "static/js/main.fd1918cd.js"
   ]
 }
