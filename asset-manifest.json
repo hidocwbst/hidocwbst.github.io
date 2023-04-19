@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a5aec05c.css",
-    "main.js": "/static/js/main.e7cc0ce7.js",
+    "main.js": "/static/js/main.25600b55.js",
     "static/js/787.36e42aab.chunk.js": "/static/js/787.36e42aab.chunk.js",
     "static/media/hand_tel.png": "/static/media/hand_tel.5b0f25716df24188e7a8.png",
     "static/media/almoni-tzar-light-aaa.woff2": "/static/media/almoni-tzar-light-aaa.bb2fb3b7dc88b71b251b.woff2",
@@ -19,11 +19,11 @@
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
     "static/media/menu.svg": "/static/media/menu.215df4f0a15755ed46ff.svg",
     "main.a5aec05c.css.map": "/static/css/main.a5aec05c.css.map",
-    "main.e7cc0ce7.js.map": "/static/js/main.e7cc0ce7.js.map",
+    "main.25600b55.js.map": "/static/js/main.25600b55.js.map",
     "787.36e42aab.chunk.js.map": "/static/js/787.36e42aab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5aec05c.css",
-    "static/js/main.e7cc0ce7.js"
+    "static/js/main.25600b55.js"
   ]
 }
