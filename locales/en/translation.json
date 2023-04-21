@@ -97,6 +97,56 @@
     "msgPlaceholder": "Write message",
     "button": "Send"
   },
+  "faq": {
+    "heading": "Questions and Answers",
+    "paragraph": "We are here to answer any question.<br> On this page you can find frequently asked questions by topic - just click on the question to read&nbsp; the answer.<br> If you did not find an answer to your question, you are welcome to contact us&nbsp; through We try to reply within 24 hours from the day of your inquiry. The writing is in the masculine language, for reasons of convenience only and of course this document is addressed to all genders.",
+    "generalHeading": "General Questions",
+    "que1": "What is hidoc service?",
+    "ans1.1": "The hidoc service makes the connection with doctors accessible through a telemedicine platform. The platform allows users easy access to expert doctors for consultation, diagnosis and online medical treatment (online) through a video call.",
+    "ans1.2": "The service is not a substitute for a visit to the clinic. We founded hidoc to connect patients with specialist doctors in an accessible, convenient way and at times that suit the doctor and the patient without leaving home.<br> With hidoc&nbsp; you can send specialist doctors messages, upload files (such as laboratory tests, a photograph of a suspicious lesion, etc.) and chat via&nbsp;phone or video.<br> hidoc&nbsp;leads the field of telemedicine in Israel together with the quality doctors who were carefully selected, and the ease of use and operation of the website.",
+    "que2": "What areas of medicine is the service suitable for?",
+    "ans2.1": "The fields of medicine at Haidok are many and varied, and include most of the clinical fields of medicine.",
+    "ans2.2": "You are invited to check the fields of medicine that are updated from time to time.",
+    "que3": "How do you register for the service?",
+    "ans3.1": "Just go to the <a href=\"https://hidoc.co.il/\">home page</a>, click the \"Register\" button, enter your email address and password, or register using your Facebook or Google account .</p>",
+    "ans3.2": "that's it! Did we just say that?",
+    "que4": "How do you make an appointment with a doctor?",
+    "ans4.1": "Once you have registered on the website, the process of making an appointment with a specialist is simple and convenient:",
+    "ans4.2": "<ol> <li><strong>Age </strong>- Choose whether the appointment is for an adult or a child (in the case of making an appointment for a child, or for an adult who is legally incompetent, verification will be required that the person making the appointment is a parent or guardian of the patient) </li> <li><strong>Field of consultation</strong> - select the requested field of expertise</li> <li><strong>Method of contact</strong> - choose the preferred method of contact (e.g., video call) </li> <li><strong>Convenient times</strong> - mark convenient times for an appointment</li> </ol>",
+    "ans4.3": "After confirming the details of the request, hidoc's smart engine will do the search for you and notify you via the email address you entered of finding a specialist doctor available at the times you requested. All that remains is to confirm the queue and pay using the secure payment system. After the payment has been successfully received, the queue will appear on your home page.",
+    "que5": "Can a parent/guardian of a minor/invalid, who wishes to use hidoc for him, talk to the specialist doctor on his behalf and get access to the information transmitted during the visit?",
+    "ans5.1": "Yes, after presenting documents confirming that the applicant is the patient's parent/guardian.",
+    "que6": "Is hidoc's service covered by health insurance?",
+    "ans6.1": "At this stage hidoc does not have cooperation agreements with the insurance companies and the health funds. You can submit the hidoc invoice to the insurance company with which you are insured and request reimbursement for \"medical consultation\", as long as the above service is part of your recovery policy.",
+    "que7": "Can hidoc be used outside of Israel?",
+    "ans7.1": "Yes, except in the EU and California. Please note that the prices are in new shekels and the service times are adjusted to Israeli time.",
+
+    "privacyHeading": "Privacy and information security",
+    "que8": "How does hidoc protect my privacy?",
+    "ans8.1": "At hidoc, the privacy and safety of the patients and the security of the information are of first importance. We operate in accordance with strict standards in all matters of information security and invest heavily in protecting the safety of patients and their information. hidoc's technology meets the strict requirements of HIPPA, which is an American legislation that establishes regulations for electronic data transfer, privacy protection, medical confidentiality and information security.",
+    "ans8.2": "The service is not a substitute for a visit to the clinic. We founded hidoc to connect patients with specialist doctors in an accessible, convenient way and at times that suit the doctor and the patient without leaving home.<br> With hidoc&nbsp; you can send specialist doctors messages, upload files (such as laboratory tests, a photograph of a suspicious lesion, etc.) and chat via&nbsp;phone or video.<br> hidoc&nbsp;leads the field of telemedicine in Israel together with the quality doctors who were carefully selected, and the ease of use and operation of the website.",
+    "ans8.3": "For more information on privacy, please read hidoc's <a href=\"/privacy\">Privacy Policy</a>. ",
+    "que9": "Is the payment system secure?",
+    "ans9.1": "Payment in the system is secured by the strictest PCI DSS Level 1 security standard. Be sure that payment transactions carried out through the system are safe and reliable. We never store users' personal financial information with us.",
+
+    "paymentHeading": "Prices and payment",
+    "que10": "What payment methods can be used to pay for the service?",
+    "ans10.1": "We honor most types of credit cards. It is not possible to pay via PayPal or bank transfers at this time.",
+    "que11": "Will I be required to pay if the appointment is canceled or postponed?",
+    "ans11.1": "If you postponed or canceled the appointment at least two days that are not rest days before the appointed time - you will not be charged.",
+
+    "technicalHeading": "Technical questions",
+    "que12": "Are the video calls recorded?",
+    "ans12.1": "No. The system does not record and save the video calls. The attending physician must document the visit in the form of a visit summary as in a normal visit to the clinic.",
+    "que13": "How to change details in my hidoc account?",
+    "ans13.1": "To change details in your hidoc account, log in with a name and password and go to profile settings. In the profile settings you can change personal details and change password.",
+    "que14": "What is the approval process for the chosen doctor?",
+    "ans14.1": "After you have chosen a field of specialization in which you would like to receive service, the system will select for you the specialist doctor who is available to provide the service and will show you his details and availability, you can confirm the doctor and choose one of the appointment options displayed, or reject receiving the service from that doctor and the system will locate another specialist doctor in the field . If you have confirmed the doctor and the date, all that remains is to pay in the secure payment system and after the payment for the service has been successfully received, the system will schedule the appointment and you will be sent a confirmation of this.",
+    "que15": "What to do in case I forgot my password?",
+    "ans15.1": "In case you forgot your password, please click on <a href=\"https://hidoc.co.il/user/password\"> I forgot my password</a> and enter the email address you used to register for the service. After clicking on \"E-mail new password\" a link to reset the password will be sent to this address and you can use a new password."
+
+    
+  },
   "about": {
     "heading": "About Us",
     "subHeading": "HIDOC the leading private internet clinic in Israel",
@@ -119,8 +169,8 @@
     "accesability": "Accessibility Statement",
     "madness": "From Madness House",
     "about": "About",
-    "joinUs": "Q&A",
-    "qa": "Consulting Area",
+    "joinUs": "a specialist doctor? Join us",
+    "qa": "Q&A",
     "note": "The site is not intended for an emergency situation - do not use this site in a life-threatening situation."
   },
   "info": {
