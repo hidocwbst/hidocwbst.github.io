@@ -1,11 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.7c2077b4.css",
-    "main.js": "/static/js/main.251327ac.js",
+    "main.css": "/static/css/main.c0091a02.css",
+    "main.js": "/static/js/main.f8ae93a1.js",
     "static/js/787.36e42aab.chunk.js": "/static/js/787.36e42aab.chunk.js",
+    "static/media/amir.jpg": "/static/media/amir.cb26b8733ad288e4d427.jpg",
+    "static/media/yitzhak.jpg": "/static/media/yitzhak.aa1c99c19edd739454ec.jpg",
+    "static/media/oswaldo.jpg": "/static/media/oswaldo.b7fdf27c5aaddbb77988.jpg",
+    "static/media/anna.jpg": "/static/media/anna.d07404c645633ce79133.jpg",
+    "static/media/efrat.jpeg": "/static/media/efrat.67201d9d7532b5f83340.jpeg",
     "static/media/hand_tel.png": "/static/media/hand_tel.5b0f25716df24188e7a8.png",
+    "static/media/gherta.jpg": "/static/media/gherta.3946f990d7f96a75c5ea.jpg",
+    "static/media/michal.jpg": "/static/media/michal.6cb05faa386884cad00d.jpg",
     "static/media/almoni-tzar-light-aaa.woff2": "/static/media/almoni-tzar-light-aaa.bb2fb3b7dc88b71b251b.woff2",
     "static/media/almoni-tzar-demibold-aaa.woff2": "/static/media/almoni-tzar-demibold-aaa.3795ac84d9a05ee1d207.woff2",
+    "static/media/yosef.jpg": "/static/media/yosef.c39212d3ce37e05062c1.jpg",
+    "static/media/ayala.jpg": "/static/media/ayala.733e49d0475728d40bb0.jpg",
     "static/media/top_left.png": "/static/media/top_left.3f3e731550d71f64fecc.png",
     "static/media/logo_blue.png": "/static/media/logo_blue.0e50a1029066f3c18402.png",
     "static/media/top_left_no_bg.png": "/static/media/top_left_no_bg.1623e61b8a9a5ef02543.png",
@@ -18,12 +27,12 @@
     "static/media/error.svg": "/static/media/error.84c9451d750545273a94bd88a288c030.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
     "static/media/menu.svg": "/static/media/menu.215df4f0a15755ed46ff.svg",
-    "main.7c2077b4.css.map": "/static/css/main.7c2077b4.css.map",
-    "main.251327ac.js.map": "/static/js/main.251327ac.js.map",
+    "main.c0091a02.css.map": "/static/css/main.c0091a02.css.map",
+    "main.f8ae93a1.js.map": "/static/js/main.f8ae93a1.js.map",
     "787.36e42aab.chunk.js.map": "/static/js/787.36e42aab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c2077b4.css",
-    "static/js/main.251327ac.js"
+    "static/css/main.c0091a02.css",
+    "static/js/main.f8ae93a1.js"
   ]
 }
