@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.754e41c7.css",
-    "main.js": "/static/js/main.af72e230.js",
+    "main.css": "/static/css/main.4f5537f9.css",
+    "main.js": "/static/js/main.5364491f.js",
     "static/js/787.36e42aab.chunk.js": "/static/js/787.36e42aab.chunk.js",
     "static/media/amir.jpg": "/static/media/amir.cb26b8733ad288e4d427.jpg",
     "static/media/yitzhak.jpg": "/static/media/yitzhak.aa1c99c19edd739454ec.jpg",
@@ -19,7 +19,6 @@
     "static/media/blog2.png": "/static/media/blog2.2a78cdffe327cf0ba2f3.png",
     "static/media/blog3.png": "/static/media/blog3.7dfab433f9d2eb291735.png",
     "static/media/michal.jpg": "/static/media/michal.6cb05faa386884cad00d.jpg",
-    "static/media/banner.svg": "/static/media/banner.e709dd748b22015564de57bea6471f30.svg",
     "static/media/almoni-tzar-light-aaa.woff2": "/static/media/almoni-tzar-light-aaa.bb2fb3b7dc88b71b251b.woff2",
     "static/media/almoni-tzar-demibold-aaa.woff2": "/static/media/almoni-tzar-demibold-aaa.3795ac84d9a05ee1d207.woff2",
     "static/media/yosef.jpg": "/static/media/yosef.c39212d3ce37e05062c1.jpg",
@@ -49,12 +48,12 @@
     "static/media/right-arrow.svg": "/static/media/right-arrow.03c2f23c4f1bc11668e0.svg",
     "static/media/menu.svg": "/static/media/menu.215df4f0a15755ed46ff.svg",
     "static/media/left-arrow.svg": "/static/media/left-arrow.9996eb084839453d081d.svg",
-    "main.754e41c7.css.map": "/static/css/main.754e41c7.css.map",
-    "main.af72e230.js.map": "/static/js/main.af72e230.js.map",
+    "main.4f5537f9.css.map": "/static/css/main.4f5537f9.css.map",
+    "main.5364491f.js.map": "/static/js/main.5364491f.js.map",
     "787.36e42aab.chunk.js.map": "/static/js/787.36e42aab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.754e41c7.css",
-    "static/js/main.af72e230.js"
+    "static/css/main.4f5537f9.css",
+    "static/js/main.5364491f.js"
   ]
 }
